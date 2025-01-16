@@ -1,6 +1,7 @@
 # dipp
 Dart IPP implementation  
 Based on  
+* https://www.cups.org/doc/spec-ipp.html,  
 * python-ipp: https://github.com/ctalkington/python-ipp,  
 * ipp: https://www.npmjs.com/package/ipp,  
 * sealsystems/ipp: https://www.npmjs.com/package/@sealsystems/ipp.  
